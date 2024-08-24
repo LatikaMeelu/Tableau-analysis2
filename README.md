@@ -17,7 +17,8 @@ Produced a dashboard using Tableau.
 
 Tableau: [Link](https://public.tableau.com/views/Book2_17244969314180/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Dashboard 2](https://github.com/user-attachments/assets/db9eb743-6b84-48d2-963a-a5453587663c)
+![Dashboard 2](https://github.com/user-attachments/assets/6f594178-9ff5-4db7-bf99-c95511464e88)
+
 
 
 I do not own the dataset. All credits to the original authors/creators. For educational purposes only.
