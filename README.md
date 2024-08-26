@@ -8,7 +8,7 @@ Tableau- coffee shop data analysis. Transaction data for Maven Roasters, a ficti
 ## 💡 Highlights
 
 - Coffee is sold the most at Maven Roasters. The most sold product is Barista espresso, second being brewed chai tea. 
-- Hell's Kitchen scores highest in revenues.
+- Hell's Kitchen scores highest in revenues earned.
 - Most expensive product sold is dark chocolate coffee.
 - Thursday and mondays are the busiest days in the week, the least busy being sundays.
 - ## 📊 Visualization
